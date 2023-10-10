@@ -13,7 +13,7 @@ The paired analysis revealed the potential for clustering based on "Annual Incom
 
 
 Evaluation of algorithm performance revealed that K-means outperformed DBSCAN, achieving a silhouette score of 0.55 and effectively clustering the dataset into five distinct groups. In contrast, DBSCAN grouped all data points into a single cluster, indicating its limitations for this specific dataset.
-[image](https://github.com/aidapouradam4/Behavioral-Segmentation/assets/103252922/c93f0c55-c44b-453b-8c4a-584e71ce35d8)
+![image](https://github.com/aidapouradam4/Behavioral-Segmentation/assets/103252922/c93f0c55-c44b-453b-8c4a-584e71ce35d8)
 ![image](https://github.com/aidapouradam4/Behavioral-Segmentation/assets/103252922/2e2ddfde-7387-45cc-b1d5-94522c629f82)
 
 
